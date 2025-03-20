@@ -30,4 +30,8 @@ What could we do for the chatbot using these markdown features?
 
 So for more information, visit the [Sungkyunkwan University Website](https://www.skku.edu/skku/index.do)
 
+| Menu name | Price | Restaurant |
+| ----------- | ----------- | ----------- |
+| Pasta | 5000 KW| Pasta Market |
+| Rissoto | 7000 KW | Normal Kitchen |
 
