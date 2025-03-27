@@ -57,7 +57,7 @@ Chatbots are the programs able to respond to users' queries- questions or reques
 ---
 ## What are *bad chatbots*?
 
-Here are some examples of possible bad actions of chatbots: 
+Here are some examples of possible bad actions of chatbots:
 
 - Failure to perform human requests well: consequences that do not meet human expectations
 - Non-conversational: out-of-context story
@@ -68,3 +68,5 @@ Here are some examples of possible bad actions of chatbots:
 
 Ex) Lee Luda in South Korea(2021)
 [luda example](https://www.techtimes.com/articles/255964/20210114/south-korea-ai-chatbot-gets-suspended-facebook-abusive-insulting-comments.htm)
+
+add some more information about the chatbots for next week! 
