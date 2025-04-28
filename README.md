@@ -5,8 +5,8 @@
 ## Table of Contents
 
 1. [What is Chatbot](#what-is-chatbot)
-2. [Chatbot Operation](#how-does-a-chatbot-operate)
-3. [Types of Chatbot](#types-of-chatbot)
+2. [Chatbot History](#the-path-of-a-chatbot)
+3. [Chatbot Opreation & Types](#how-does-a-chatbot-operate)
 4. [Good chatbot](#what-are-good-chatbots)
 5. [Bad chatbot](#what-are-bad-chatbots)
 6. [Final Presentation](#presenatation-topic)
@@ -21,15 +21,26 @@
 Chatbot is a conversational agent that allows computer systems to interact with human users via natural language.
 Chatbots are the programs able to respond to users' queries- questions or requests. [^1] This indicates *communication with computer system in natural language*, within the same way as the human-conversation. More inclusive definition explains that chatbot can be labelled to **every software simulating human conversation**. [^2]
 
-## How does a chatbot operate?
+## The Path of a Chatbot
 
 ### Historical Flow
 
 ![Chatbot history](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot%20history.png)
 
+The origin of chatbots can be traced back to the "Turing Test," also known as the "imitation game," proposed by Alan Turing. This test evaluated whether a computer could exhibit intelligent behavior indistinguishable from that of a human, and it is widely regarded as the foundation of modern smart chatbots. [^3]
 
+Building on the Turing Test, the **first chatbot**, *ELIZA*, was developed in 1966 by the MIT AI Research Laboratory. ELIZA was an early natural language processing (NLP) system capable of engaging in simple conversations. Its most famous script, "DOCTOR," simulated a conversation between a doctor (ELIZA) and a patient (the user), allowing users to ask questions within this role-playing context. [^4]
+>In this context, ELIZA can be the very beginning history of chatbot persona too.
 
-### Technical Development Flow 
+In 1995, another NLP chatbot was developed called *ALICE (Artificial Linguistic Internet Computer Entity)*. Although ALICE couldn't pass the Turing Test due to its mechanical nature in short conversations with general users, it won the [Loebner Prize](https://en.wikipedia.org/wiki/Loebner_Prize) three times, showcasing its advancements in human-like interaction. [^5]
+
+Text-based chatbots rapidly evolved, and conversational agents were integrated into voice assistants, enabling the creation of personal virtual assistants like Apple's *Siri*. These voice assistants extended beyond smartphones to devices like smart speakers, such as *Alexa*, significantly advancing the smart speaker voice interface market.
+
+Building on these developments, *ChatGPT* emerged, leveraging advancements in Generative AI. Today, users can interact with ChatGPT on a wide range of topics and purposes, including obtaining information, generating images, and receiving emotional support.
+
+## How does a chatbot operate?
+
+### Technical Development Flow & Types of Chatbot
 
 ![Chatbot Development_technique](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot%20Development_technique.png)
 
@@ -118,8 +129,12 @@ AI Chatbot, Persona,
 ### References
 [^1]: [chatbot definition](https://ko.wikipedia.org/wiki/%EC%B1%97%EB%B4%87)
 [^2]: [chatbot definition2](https://www.oracle.com/kr/chatbots/what-is-a-chatbot/)
-[^3]: [NTIS chatbot](https://www.ntis.go.kr/ThMain.do)
-[^4]: [google assistant](https://assistant.google.com/intl/ko_kr/learn/)
+[^3]: [Turing Test](https://ko.wikipedia.org/wiki/%ED%8A%9C%EB%A7%81_%EA%B2%80%EC%82%AC)
+[^4]: [ELIZA](https://ko.wikipedia.org/wiki/ELIZA)
+[^5]: [ALICE](https://ko.wikipedia.org/wiki/A.L.I.C.E.)
+
+[^4]: [NTIS chatbot](https://www.ntis.go.kr/ThMain.do)
+[^5]: [google assistant](https://assistant.google.com/intl/ko_kr/learn/)
 [^5]: [Hyundai Card chatbot](https://www.hyundaicard.com/cpu/cs/CPUCS0201_01.hc)
 [^6]: [Hybrid chatbot](https://www.upstage.ai/blog/ko/ai-chatbots-for-business)
 [^7]: [Siri](https://www.apple.com/siri/#:~:text=Get%20everyday%20tasks%20done%20using%20only%20your,request.%20Built%20into%20all%20your%20Apple%20devices.)
