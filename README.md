@@ -1,6 +1,6 @@
 # 2025.05.01 Class
 
-![AI generated image](./AI-generated%20image.png)
+![AI generated image](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/AI-generated%20image.png)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 **Conversational Agent**, **Natural Language**, **Human-System Communication**
 
-![Chatbot-Human Communication](./Chatbot-Human%20Communication.png)
+![Chatbot-Human Communication](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot-Human%20Communication.png)
 
 Chatbot is a conversational agent that allows computer systems to interact with human users via natural language.
 Chatbots are the programs able to respond to users' queries- questions or requests. [^1] This indicates *communication with computer system in natural language*, within the same way as the human-conversation. More inclusive definition explains that chatbot can be labelled to **every software simulating human conversation**. [^2]
@@ -25,13 +25,13 @@ Chatbots are the programs able to respond to users' queries- questions or reques
 
 ### Historical Flow
 
-![Chatbot history](./Chatbot%20history.png)
+![Chatbot history](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot%20history.png)
 
 
 
 ### Technical Development Flow 
 
-![Chatbot Development_technique](./Chatbot%20Development_technique.png)
+![Chatbot Development_technique](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot%20Development_technique.png)
 
 - FAQ program chatbot: Initial chatbot provided limited response 
 
