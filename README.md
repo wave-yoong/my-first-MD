@@ -5,24 +5,33 @@
 ## Table of Contents
 
 1. [What is Chatbot](#what-is-chatbot)
-2. [Types of Chatbot](#types-of-chatbot)
-3. [Chatbot Operation](#how-does-the-chatbot-operate)
+2. [Chatbot Operation](#how-does-the-chatbot-operate)
+3. [Types of Chatbot](#types-of-chatbot)
 4. [Good chatbot](#what-are-good-chatbots)
 5. [Bad chatbot](#what-are-bad-chatbots)
+6. [Final Presentation](#presenatation-topic)
 
 
-### What is Chatbot? 
+## What is Chatbot? 
 
 **Conversational Agent**, **Natural Language**, **Human-System Communication**
+
+![Chatbot-Human Communication](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-17a0-622f-9a38-0d9adc91d3a8/raw?se=2025-04-28T12%3A50%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=bd51b63d-7702-5b39-8f0d-ad9c760eb7e8&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T21%3A04%3A17Z&ske=2025-04-28T21%3A04%3A17Z&sks=b&skv=2024-08-04&sig=97m3FQ2V6%2BC7YMzn96tipEoVu9QQyBpaZfNttVHq0jE%3D)
 
 Chatbot is a conversational agent that allows computer systems to interact with human users via natural language.
 Chatbots are the programs able to respond to users' queries- questions or requests. [^1] This indicates *communication with computer system in natural language*, within the same way as the human-conversation. More inclusive definition explains that chatbot can be labelled to **every software simulating human conversation**. [^2]
 
+## How does a chatbot operate?
 
+### Technical Development Flow 
 
-### Types of Chatbot 
+![Chatbot Development_technique](https://sdmntprwestus.oaiusercontent.com/files/00000000-758c-6230-bca0-41580748c6ed/raw?se=2025-04-28T12%3A05%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=49775c30-c9b9-5f00-8a30-74c4e547c0c2&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-28T10%3A51%3A11Z&ske=2025-04-29T10%3A51%3A11Z&sks=b&skv=2024-08-04&sig=DdgayQ7ezeRrR/z4163eZ8Gtc6juUodUyqXyYlOq9Nk%3D)
 
-1. Rule-based Chatbot
+- FAQ program chatbot: Initial chatbot provided limited 
+
+## Types of Chatbot 
+
+**Rule-based Chatbot**
 
 - Operated by prescribed rules and scenarios 
 - Only give answers when users click "menu" button or enter specific keywords
@@ -32,7 +41,7 @@ Chatbots are the programs able to respond to users' queries- questions or reques
 
 ![NTIS Chatbot ND](https://i.ytimg.com/vi/Fu6ztIDDtsM/sddefault.jpg) 
 
-2. AI-based Chatbot
+**AI-based Chatbot**
 
 - Understanding users' queries with natural language processing(NLP)
 - ChatGPT, Siri, Google Assistant
@@ -71,7 +80,6 @@ Chatbots are the programs able to respond to users' queries- questions or reques
 
 ---
 
-### How does the chatbot operate? 
 
 
 
@@ -91,6 +99,14 @@ Here are some examples of possible bad actions of chatbots:
 Ex) Lee Luda in South Korea(2021)
 [luda example](https://www.techtimes.com/articles/255964/20210114/south-korea-ai-chatbot-gets-suspended-facebook-abusive-insulting-comments.htm) [^8]
 
+
+### Presenatation Topic
+
+The Power of Persona in Chatbot:  
+
+#### Keyword
+
+AI Chatbot, Persona, 
 
 
 ### References
