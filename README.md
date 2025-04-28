@@ -5,7 +5,7 @@
 ## Table of Contents
 
 1. [What is Chatbot](#what-is-chatbot)
-2. [Chatbot Operation](#how-does-the-chatbot-operate)
+2. [Chatbot Operation](#how-does-a-chatbot-operate)
 3. [Types of Chatbot](#types-of-chatbot)
 4. [Good chatbot](#what-are-good-chatbots)
 5. [Bad chatbot](#what-are-bad-chatbots)
@@ -23,11 +23,17 @@ Chatbots are the programs able to respond to users' queries- questions or reques
 
 ## How does a chatbot operate?
 
+### Historical Flow
+
+![Chatbot history](https://sdmntprwestus.oaiusercontent.com/files/00000000-6c80-6230-b59e-df53dbfff74e/raw?se=2025-04-28T13%3A29%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=ad078999-5dd4-5e69-aeca-de54ef57e15b&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T21%3A02%3A31Z&ske=2025-04-28T21%3A02%3A31Z&sks=b&skv=2024-08-04&sig=PXSJhLvvcXrDtqa70aEdiC7P66idok3UWpWcO%2BsZtvQ%3D)
+
+
+
 ### Technical Development Flow 
 
 ![Chatbot Development_technique](https://sdmntprwestus.oaiusercontent.com/files/00000000-758c-6230-bca0-41580748c6ed/raw?se=2025-04-28T12%3A05%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=49775c30-c9b9-5f00-8a30-74c4e547c0c2&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-28T10%3A51%3A11Z&ske=2025-04-29T10%3A51%3A11Z&sks=b&skv=2024-08-04&sig=DdgayQ7ezeRrR/z4163eZ8Gtc6juUodUyqXyYlOq9Nk%3D)
 
-- FAQ program chatbot: Initial chatbot provided limited 
+- FAQ program chatbot: Initial chatbot provided limited response 
 
 ## Types of Chatbot 
 
