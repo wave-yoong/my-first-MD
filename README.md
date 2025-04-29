@@ -66,39 +66,37 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
     ![Speak AI Tutor](https://cdn.prod.website-files.com/62f37633b878d6371e55ec75/6410a8218c4915651733ef61_speak-gpt4-hero.png)
     *Speak's AI Tutor offers detailed coaching for users to improve their English conversation skills.*
 
-3. Business Specialized Chatbot (Domain Chatbot)
+- **Generative AI** chatbot: Generative AI chatbots represent a significant advancement, utilizing deep-learning models such as Large Language Models (LLMs). [^7]
+    - These chatbots generate responses based on user interactions and are backed by extensive knowledge bases.
+    - Since the release of ChatGPT in 2022, the chatbot market has experienced rapid growth.
+    - Beyond text generation, generative AI can create multimedia content, including images, music, and videos.
+    - This capability allows users to engage with the system more immersively, enhancing both the conversational experience and the satisfaction derived from the results.
+    - **Examples:** ChatGPT, Zeta (AI Persona chatbot), NAVER Webtoon character chatbot.
+    ![NAVER character chatbot](https://m.ddaily.co.kr/2024/06/10/2024061016130421499_l.jpg)
+    *NAVER release 'character chatbot' from their webtoon service in 2024 with their generative AI 'HyperClovaX'. Users can be one of the characters in the webtoon and communicate with the characters as if they are in the stories.*
 
-- Optimized chatbot for specific business or service
-- Shopping assistant, bank consulting chatbot, Hospital reservation chatbot
-- (+): Higher accuracy for the specific domain
-- (-): Limited to be applied to other domains 
+    > Generative AI fosters the users to be more immersive to the conversation with the chatbot. 
+    > Persona gets more power from the technical development, and now users can expect not only 'kind' computer but also 'cynical', 'sardonic' resopnse from the system. 
+    
 
-![현대카드 챗봇 예시](https://cdn.apple-economy.com/news/photo/201708/35252_20365_1025.jpg) [^5]
+- Other types of chatbots
+    - **Domain** chatbot [*Business Specialized* chatbot]: optimized chatbot for specific business or service. This can be higher accuracy for the specific domain, but usually these chatbots are rule-based chatbots because of the buisness privacy. 
+    ![현대카드 챗봇 예시](https://cdn.apple-economy.com/news/photo/201708/35252_20365_1025.jpg) [^9]
+    *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services, card information etc.*
 
-4. Hybrid Chatbot 
+    - **Hybrid** chatbot: A combination of rule-based and AI-based chatbots, hybrid chatbots handle simple responses using rule-based logic and more complex queries with AI-based processing. 
+        - This approach offers both flexibility and control, making it suitable for customer service applications in businesses.
+        ![hybrid chatbot](https://tovie.ai/wp-content/uploads/2023/10/dialog_003-1024x576.jpg)
 
-- Rule-based + AI-based mixture [^6]
-- Simple responses are treated by rule-based, AI-based respond to complicated questions 
-- (+): can receive both control & flexibility
-- ex) Customer Response services in Business
-
-![hybrid chatbot](https://tovie.ai/wp-content/uploads/2023/10/dialog_003-1024x576.jpg)
-
-5. Voice-based Chatbot
-
-- conversation with voice rather than text
-- (+): hands-free interaction
-- (-): accuracy cannot be assured in the noise
-- ex) Siri, Alexa [^7]
-
-![Siri](https://i.pinimg.com/736x/6b/bc/33/6bbc337c7861b34924507061b7ef0137.jpg)
-
----
-
-
+    - **Voice-based** chatbot: These chatbots use voice interfaces instead of text, making them more accessible to a broader range of users, including the elderly and people with disabilities.
+        - While advancements in technology have improved their accuracy, challenges remain in noisy environments.
+        - Prominent examples include Apple's *Siri* and Amazon's *Alexa*. [^7]
+        - Many smart speakers, such as KT's *Giga Genie*, now incorporate Voice User Interfaces (VUI) to support vocal interactions.
+        ![KT Giga Genie](https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2021/01/27/.cache/512/20210127500359.jpg)
+        *When users say "Hey Genie" followed by a request, the speaker responds. Users can ask for the weather, news, top music charts, or general knowledge—typically daily and general information.*
 
 
-### What are *good chatbots*? 
+## What are *good chatbots*? 
 
 ## What are *bad chatbots*?
 
@@ -131,7 +129,7 @@ AI Chatbot, Persona,
 [^4]: [ELIZA](https://ko.wikipedia.org/wiki/ELIZA)
 [^5]: [ALICE](https://ko.wikipedia.org/wiki/A.L.I.C.E.)
 [^6]: [NTIS chatbot](https://www.ntis.go.kr/ThMain.do)
-[^7]: [AI chatbot NLU](https://www.ibm.com/kr-ko/think/topics/chatbots#:~:text=%EC%B1%97%EB%B4%87%EC%9D%80%20%EC%B5%9C%EC%A2%85%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EB%8C%80%ED%99%94%EB%A5%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0,%EC%9D%91%EB%8B%B5%EC%9D%84%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94%20%EA%B2%80%EC%9A%B0%EA%B0%80%20%EC%A0%90%EC%A0%90%20%EB%8D%94%20%EB%A7%8E%EC%95%84%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
+[^7]: [AI chatbot NLU](https://www.ibm.com/kr-ko/think/topics/chatbots#:~:text=%EC%B1%97%EB%B4%87%EC%9D%80%20%EC%B5%9C%EC%A2%85%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EB%8C%80%ED%99%94%EB%A5%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0,%EC%9D%91%EB%8B%B5%EC%9D%80%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94%20%EA%B2%80%EC%9A%B0%EA%B0%80%20%EC%A0%90%EC%A0%90%20%EB%8D%94%20%EB%A7%8E%EC%95%84%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
 [^8]: [google assistant](https://assistant.google.com/intl/ko_kr/learn/)
 
 
