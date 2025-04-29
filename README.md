@@ -72,7 +72,7 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
     - Beyond text generation, generative AI can create multimedia content, including images, music, and videos.
     - This capability allows users to engage with the system more immersively, enhancing both the conversational experience and the satisfaction derived from the results.
     - **Examples:** ChatGPT, Zeta (AI Persona chatbot), NAVER Webtoon character chatbot.
-    ![NAVER character chatbot](https://m.ddaily.co.kr/2024/06/10/2024061016130421499_l.jpg)
+    ![NAVER character chat](https://github.com/wave-yoong/my-first-MD/blob/main/NAVER%20character%20chat.png?raw=true)
     *NAVER release 'character chatbot' from their webtoon service in 2024 with their generative AI 'HyperClovaX'. Users can be one of the characters in the webtoon and communicate with the characters as if they are in the stories.*
 
     > Generative AI fosters the users to be more immersive to the conversation with the chatbot. 
