@@ -73,16 +73,20 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
     - This capability allows users to engage with the system more immersively, enhancing both the conversational experience and the satisfaction derived from the results.
     - **Examples:** ChatGPT, Zeta (AI Persona chatbot), NAVER Webtoon character chatbot.
     ![NAVER character chat](https://github.com/wave-yoong/my-first-MD/blob/main/NAVER%20character%20chat.png?raw=true)
-    *NAVER release 'character chatbot' from their webtoon service in 2024 with their generative AI 'HyperClovaX'. Users can be one of the characters in the webtoon and communicate with the characters as if they are in the stories.*
+    
+        *NAVER release 'character chatbot' from their webtoon service in 2024 with their generative AI 'HyperClovaX'. Users can be one of the characters in the webtoon and communicate with the characters as if they are in the stories.*
 
+
+    
     > Generative AI fosters the users to be more immersive to the conversation with the chatbot. 
     > Persona gets more power from the technical development, and now users can expect not only 'kind' computer but also 'cynical', 'sardonic' resopnse from the system. 
+    
     
 
 - Other types of chatbots
     - **Domain** chatbot [*Business Specialized* chatbot]: optimized chatbot for specific business or service. This can be higher accuracy for the specific domain, but usually these chatbots are rule-based chatbots because of the buisness privacy. 
     ![현대카드 챗봇 예시](https://cdn.apple-economy.com/news/photo/201708/35252_20365_1025.jpg) [^9]
-    *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services, card information etc.*
+        *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services, card information etc.*
 
     - **Hybrid** chatbot: A combination of rule-based and AI-based chatbots, hybrid chatbots handle simple responses using rule-based logic and more complex queries with AI-based processing. 
         - This approach offers both flexibility and control, making it suitable for customer service applications in businesses.
