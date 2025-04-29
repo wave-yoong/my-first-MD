@@ -93,12 +93,15 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
         - Prominent examples include Apple's *Siri* and Amazon's *Alexa*. [^7]
         - Many smart speakers, such as KT's *Giga Genie*, now incorporate Voice User Interfaces (VUI) to support vocal interactions.
         ![KT Giga Genie](https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2021/01/27/.cache/512/20210127500359.jpg)
-        *When users say "Hey Genie" followed by a request, the speaker responds. Users can ask for the weather, news, top music charts, or general knowledge—typically daily and general information.*
+        
+            *When users say "Hey Genie" followed by a request, the speaker responds. Users can ask for the weather, news, top music charts, or general knowledge—typically daily and general information.*
 
 
-## What are *good chatbots*? 
+## What are *good* chatbots? 
 
-## What are *bad chatbots*?
+
+
+## What are *bad* chatbots?
 
 Here are some examples of possible bad actions of chatbots:
 
