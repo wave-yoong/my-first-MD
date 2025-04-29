@@ -44,29 +44,27 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
 
 ![Chatbot Development_technique](https://raw.githubusercontent.com/wave-yoong/my-first-MD/65165c4b014434a39a09cabc8f88e245f710b372/Chatbot%20Development_technique.png)
 
-- FAQ program chatbot: Initial chatbot provided limited response 
+- **FAQ program** chatbot [*Rule-based* chatbot]: Initial chatbot provided prescribed responses based on the determined rules and scenarios. 
+    - Users should select simple keywords or sentences provided by the chatbot. 
+    - Highly predictable and easy to control
+    - This chatbot is able to answer only from the scenarios, so it cannot give unpredicted query asked by users.
+    - EX) Reservation chatbot, Government chatbot (e.g., National Science & Technology Information Service, NTIS)[^6]
+    ![NTIS Chatbot ND](https://i.ytimg.com/vi/Fu6ztIDDtsM/sddefault.jpg) 
 
-## Types of Chatbot 
+- **Machine Learning** chatbot: Chatbot algorithm was developed within more complex programming and natural language process.
+    - This makes it process more various queries of users. 
+    - Machine learning helps chatbot to be exposed to human languages more, and enhances processing of queries and optimization of expectation ability 
 
-**Rule-based Chatbot**
-
-- Operated by prescribed rules and scenarios 
-- Only give answers when users click "menu" button or enter specific keywords
-- (+): predictable, easy control
-- (-): cannot answer to the complex questions
-- ex) Reservation Chatbot, NTIS Chatbot [^3]
-
-![NTIS Chatbot ND](https://i.ytimg.com/vi/Fu6ztIDDtsM/sddefault.jpg) 
-
-**AI-based Chatbot**
-
-- Understanding users' queries with natural language processing(NLP)
-- ChatGPT, Siri, Google Assistant
-- (+): contextual understanding, natural conversation
-- (-): difference in performance within the training data
-- ex) Personal assistant, consultant service, tutoring chatbot [^4]
-
-![Google Assistant](https://www.cnet.com/a/img/resize/1f2be024ea05e55ce273e4f410c21a1fb2b3a1ff/hub/2018/05/08/4b33a302-0d8c-4dde-985d-f6a63b6e96fe/google-io-2018-google-assistant-7136.jpg?auto=webp&fit=crop&height=1200&width=1200)
+- **AI-based** chatbot: With advancements in technology, chatbots began incorporating AI, enabling them to handle more complex conversations.
+    - AI chatbots can understand user queries using Natural Language Processing (NLP).
+    - Users are no longer restricted to predetermined formats and can freely ask questions, allowing chatbots to achieve *contextual understanding*.
+    - However, their performance can vary depending on the quality and diversity of the training data.
+    - **Natural Language Understanding (NLU):** NLU enables chatbots to interpret the meaning of user inputs, even when they contain minor errors such as typos or ambiguous phrasing. [^7]
+    - **Examples:** Personal assistants like *Google Assistant*, consultant services, and AI tutoring chatbots like the English-speaking app *Speak*. [^8]
+    ![Google Assistant](https://www.cnet.com/a/img/resize/1f2be024ea05e55ce273e4f410c21a1fb2b3a1ff/hub/2018/05/08/4b33a302-0d8c-4dde-985d-f6a63b6e96fe/google-io-2018-google-assistant-7136.jpg?auto=webp&fit=crop&height=1200&width=1200)
+    *Google Assistant provides personalized information based on user preferences and interests.*
+    ![Speak AI Tutor](https://cdn.prod.website-files.com/62f37633b878d6371e55ec75/6410a8218c4915651733ef61_speak-gpt4-hero.png)
+    *Speak's AI Tutor offers detailed coaching for users to improve their English conversation skills.*
 
 3. Business Specialized Chatbot (Domain Chatbot)
 
@@ -132,9 +130,11 @@ AI Chatbot, Persona,
 [^3]: [Turing Test](https://ko.wikipedia.org/wiki/%ED%8A%9C%EB%A7%81_%EA%B2%80%EC%82%AC)
 [^4]: [ELIZA](https://ko.wikipedia.org/wiki/ELIZA)
 [^5]: [ALICE](https://ko.wikipedia.org/wiki/A.L.I.C.E.)
+[^6]: [NTIS chatbot](https://www.ntis.go.kr/ThMain.do)
+[^7]: [AI chatbot NLU](https://www.ibm.com/kr-ko/think/topics/chatbots#:~:text=%EC%B1%97%EB%B4%87%EC%9D%80%20%EC%B5%9C%EC%A2%85%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EB%8C%80%ED%99%94%EB%A5%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0,%EC%9D%91%EB%8B%B5%EC%9D%84%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94%20%EA%B2%80%EC%9A%B0%EA%B0%80%20%EC%A0%90%EC%A0%90%20%EB%8D%94%20%EB%A7%8E%EC%95%84%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)
+[^8]: [google assistant](https://assistant.google.com/intl/ko_kr/learn/)
 
-[^4]: [NTIS chatbot](https://www.ntis.go.kr/ThMain.do)
-[^5]: [google assistant](https://assistant.google.com/intl/ko_kr/learn/)
+
 [^5]: [Hyundai Card chatbot](https://www.hyundaicard.com/cpu/cs/CPUCS0201_01.hc)
 [^6]: [Hybrid chatbot](https://www.upstage.ai/blog/ko/ai-chatbots-for-business)
 [^7]: [Siri](https://www.apple.com/siri/#:~:text=Get%20everyday%20tasks%20done%20using%20only%20your,request.%20Built%20into%20all%20your%20Apple%20devices.)
