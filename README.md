@@ -91,7 +91,7 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
     ![현대카드 챗봇 예시](https://github.com/wave-yoong/my-first-MD/blob/main/Hyundai%20card%20chatbot.png?raw=true)
         
         
-        *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services,
+        *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services, or get some information about the card product or related notices.*
 
     - **Hybrid** chatbot: A combination of rule-based and AI-based chatbots, hybrid chatbots handle simple responses using rule-based logic and more complex queries with AI-based processing. [^10]
         - This approach offers both flexibility and control, making it suitable for customer service applications in businesses.
