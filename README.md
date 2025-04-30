@@ -87,8 +87,10 @@ Building on these developments, *ChatGPT* emerged, leveraging advancements in Ge
     
 
 - Other types of chatbots
-    - **Domain** chatbot [*Business Specialized* chatbot]: optimized chatbot for specific business or service. This can be higher accuracy for the specific domain, but usually these chatbots are rule-based chatbots because of the buisness privacy. 
-    ![현대카드 챗봇 예시](https://github.com/wave-yoong/my-first-MD/blob/main/Hyundai%20card%20chatbot.png?raw=true) [^9]
+    - **Domain** chatbot [*Business Specialized* chatbot]: optimized chatbot for specific business or service. This can be higher accuracy for the specific domain, but usually these chatbots are rule-based chatbots because of the buisness privacy. [^9]
+    ![현대카드 챗봇 예시](https://github.com/wave-yoong/my-first-MD/blob/main/Hyundai%20card%20chatbot.png?raw=true)
+        
+        
         *Hyundai Card provides its own chatbot in their application. Users can ask some simple questions of customer services, card information etc.*
 
     - **Hybrid** chatbot: A combination of rule-based and AI-based chatbots, hybrid chatbots handle simple responses using rule-based logic and more complex queries with AI-based processing. [^10]
