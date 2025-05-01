@@ -9,7 +9,6 @@
 3. [Chatbot Opreation & Types](#how-does-a-chatbot-operate)
 4. [Good chatbot](#what-are-good-chatbots)
 5. [Bad chatbot](#what-are-bad-chatbots)
-6. [Final Presentation](#presenatation-topic)
 
 
 ## What is Chatbot? 
@@ -158,14 +157,6 @@ Some chatbots have been released with training data that contained biases, leadi
 
 
 > In my experience, a *bad chatbot* or *annoying chatbot* often fails to meet user expectations by providing irrelevant or unhelpful responses. For instance, despite advancements in generative AI, ChatGPT sometimes struggles to provide reliable academic references. It may suggest *dead links* or *irrelevant papers*, which can lead to frustration and diminish the user experience.
-
-### Presenatation Topic
-
-The Power of Persona in Chatbot:  
-
-#### Keyword
-
-AI Chatbot, Persona, 
 
 
 ### References
