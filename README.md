@@ -121,6 +121,7 @@ Here's a more detailed breakdown of what makes a good chatbot [^12][^13]:
 9. **User-Friendly** Interface: The chatbot's interface should be easy to use and navigate, allowing users to interact with it without frustration. 
 10. **Live Agent Handoff**: In cases where the chatbot cannot answer a user's query, it should be able to seamlessly hand off the conversation to a live agent. 
 
+
 >The essential quality of good chatbots is their ability to provide **timely responses, an appropriate tone and manner, and relevant content (output)** based on user queries (input).
 
 >This varies depending on the context and purpose of the chatbot. For *practical and utilitarian* use, it is crucial to deliver accurate information or actionable advice promptly. Conversely, for *hedonic and social* use, users expect chatbots to offer emotional support or engage in conversations tailored to their preferences, rather than merely providing factual information. Therefore, it is vital for chatbot algorithms to **understand the user's context** and adapt their mode of interaction accordingly.
@@ -152,6 +153,9 @@ Chatbots deployed in multilingual contexts often struggle to deliver consistent 
 
 8. The **Harmful Expression**
 Some chatbots have been released with training data that contained biases, leading to responses that were racist, sexist, or otherwise inappropriate. Additionally, chatbots that use cursing, exhibit defensiveness, or make inhumane utterances can harm users and damage trust. A notable example is [Lee Luda in South Korea](https://www.techtimes.com/articles/255964/20210114/south-korea-ai-chatbot-gets-suspended-facebook-abusive-insulting-comments.htm), a chatbot suspended in 2021 for making offensive and discriminatory comments. This case highlights the critical importance of ethical training and robust content moderation in chatbot development.
+
+![Lee Luda chatbot](https://www.researchgate.net/publication/350957710/figure/fig1/AS:1041250954256384@1625264981005/Lee-Luda-a-Korean-AI-chatbot-has-been-pulled-after-inappropriate-dialogues-such-as.ppm)
+
 
 > In my experience, a *bad chatbot* or *annoying chatbot* often fails to meet user expectations by providing irrelevant or unhelpful responses. For instance, despite advancements in generative AI, ChatGPT sometimes struggles to provide reliable academic references. It may suggest *dead links* or *irrelevant papers*, which can lead to frustration and diminish the user experience.
 
