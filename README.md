@@ -125,7 +125,7 @@ Here's a more detailed breakdown of what makes a good chatbot [^12][^13]:
 
 >This varies depending on the context and purpose of the chatbot. For *practical and utilitarian* use, it is crucial to deliver accurate information or actionable advice promptly. Conversely, for *hedonic and social* use, users expect chatbots to offer emotional support or engage in conversations tailored to their preferences, rather than merely providing factual information. Therefore, it is vital for chatbot algorithms to **understand the user's context** and adapt their mode of interaction accordingly.
 
-![NAVER Clova X]
+![NAVER Clova X](https://github.com/wave-yoong/my-first-MD/blob/main/NAVER%20Clova%20X.png?raw=true)
 
 ## What are *bad* chatbots?
 
